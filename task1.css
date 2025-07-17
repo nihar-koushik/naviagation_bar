@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    display: flex;
+     
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 10px;
+    position: fixed;
+    width: 100%;
+}
+a{
+    text-decoration:none;
+    color:white;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: large;
+
+}
+#h{
+    margin-left: 20px;
+}
+#con{
+    margin-right: 20px;
+}
+section{
+
+    text-align: center;
+    color: black;
+    font-family: system-ui;
+    height: 100vh;
+    padding: 100px 20px;
+}
+h2{
+    text-align:center;
+    color: black;
+    font-family: serif;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    color: black;
+    font-family: system-ui;
+} 
+#p2{
+    height: 30px;
+    background-color: #0f1111;
+    color: aliceblue;
+
+}
